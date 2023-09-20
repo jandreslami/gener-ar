@@ -1,0 +1,4 @@
+fecha,habitación,tipoDeReserva,nombre,CUIT,tarifa,vendedor,medioDeVenta,noches
+08/05/2023,309,Check-in,Cristián Brito Mireles,24456030994,"42.114,20",María,Presencial,14
+15/03/2023,106,Check-in,Ramiro Rosas Villagómez,27264961179,"35.332,63",Pedro,Llamada,9
+11/12/2022,102,Check-in,Miguel Ángel Urbina Pabón,34203597535,"106.109,35",Lucía,Presencial,9
